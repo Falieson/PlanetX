@@ -5,10 +5,10 @@ Specialized boilerplate frameworks and component libraries
 - \* RMUI = react-materal-ui<br/>
 
 # PlanetX
-- [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater)
+- [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater)<br/>
+- [falieson/planetx-config-eslint](https://github.com/Falieson/planetx-config-eslint) = eslint settings for most packages<br/>
 
 # PlanetX - Coming Soon
-- [falieson/eslint-config-planetx] = "core" eslint settings that are used in most packages<br/>
 - [falieson/planetx-skeleton-npmpkg] = Doc structure, Project information, .gitignore, package defaults, licensing :: later version, create yeoman generator like `yo planetx-npm` => new repo [planetx-yo-npm]<br/>
 - [falieson/planetx-skeleton-wrappers] = UI interface for replacing RMUI w/ custom components<br/>
 - [falieson/planetx-boilerplate-crater] = (RMUI) crater<br/>
