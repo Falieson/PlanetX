@@ -11,7 +11,6 @@ Specialized boilerplate frameworks and component libraries
 # PlanetX - Coming Soon
 - [falieson/planetx-skeleton-npmpkg] = Doc structure, Project information, .gitignore, package defaults, licensing :: later version, create yeoman generator like `yo planetx-npm` => new repo [planetx-yo-npm]<br/>
 - [falieson/planetx-skeleton-wrappers] = UI interface for replacing RMUI w/ custom components<br/>
-- [falieson/planetx-boilerplate-crater] = (RMUI) crater<br/>
 - [falieson/planetx-boilerplate-rsksoa] = (RMUI) rsksoa - Postgres, MongoDB, MySQL, REDIS<br/>
 - [falieson/planetx-boilerplate-meteor] = (RMUI) meteor<br/>
 - [falieson/planetx-reactmui-shell] = (RMUI) shell<br/>
