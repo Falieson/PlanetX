@@ -16,7 +16,7 @@ Specialized boilerplate frameworks and component libraries
 - [falieson/planetx-boilerplate-meteor] = (RMUI) meteor<br/>
 - [falieson/planetx-reactmui-shell] = (RMUI) shell<br/>
 - [falieson/planetx-reactmui-auth] = (RMUI) auth<br/>
-- [falieson/planetx-core] = "core" settings that brings in flowtype, eslint, babel, webpack<br/>
-- [falieson/planetx-core-flowtype] = "core" flowtype settings that are used in most packages<br/>
-- [falieson/planetx-core-babel] = "core" babel settings that are used in most packages<br/>
-- [falieson/planetx-core-webpack] = "core" webpack settings that are used in most packages<br/>
+- [falieson/planetx-config] = "core" settings that brings in flowtype, eslint, babel, webpack<br/>
+- [falieson/planetx-config-flowtype] = "core" flowtype settings that are used in most packages<br/>
+- [falieson/planetx-config-babel] = "core" babel settings that are used in most packages<br/>
+- [falieson/planetx-config-webpack] = "core" webpack settings that are used in most packages<br/>
