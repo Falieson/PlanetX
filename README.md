@@ -6,7 +6,7 @@ Specialized boilerplate frameworks and component libraries
 
 # PlanetX
 - [falieson/planetx-boilerplate-crater](https://github.com/Falieson/planetx-boilerplate-crater)<br/>
-- [falieson/planetx-config-eslint](https://github.com/Falieson/planetx-config-eslint) = eslint settings for most packages<br/>
+- [falieson/planetx-config-eslint](https://github.com/Falieson/planetx-config-eslint) = eslint settings for planetx packages<br/>
 
 # PlanetX - Coming Soon
 - [falieson/planetx-skeleton-npmpkg] = Doc structure, Project information, .gitignore, package defaults, licensing :: later version, create yeoman generator like `yo planetx-npm` => new repo [planetx-yo-npm]<br/>
