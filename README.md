@@ -3,7 +3,7 @@ PlanetX ("Planet-X")
 
 Specialized boilerplate frameworks and component libraries
 ------
-- [Falieson's](/falieson) preferences for: ESlint, FlowType
+- [Falieson's](https://github.com/Falieson) preferences for: ESlint, FlowType
 - React, Redux, default Material-UI until 'core-wrappers' is made
 - companion react/redux packages can interact with each other (shell, auth, core, etc.)
 - usually a dark theme
