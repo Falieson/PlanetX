@@ -27,3 +27,4 @@ Specialized boilerplate frameworks and component libraries
 - [falieson/planetx-config-flowtype] = "core" flowtype settings that are used in most packages
 - [falieson/planetx-config-babel] = "core" babel settings that are used in most packages
 - [falieson/planetx-config-webpack] = "core" webpack settings that are used in most packages
+`
